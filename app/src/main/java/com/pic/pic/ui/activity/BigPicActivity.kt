@@ -1,4 +1,4 @@
-package com.pic.pic.ui
+package com.pic.pic.ui.activity
 
 import android.os.Bundle
 import android.support.v7.app.AppCompatActivity
